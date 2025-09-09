@@ -1,6 +1,15 @@
 # university-java-portfolio-11
 
+
+
 ## Specification
+
+In this practical you are implementing a conference management system, based
+on arrays and pointers thus implementing a subset of a typical array list
+functionality.
+
+Note: Do not use Java’s ArrayList.
+
 Implement classes Talk, Session, and Conference that provide the following
 functionality:
 
